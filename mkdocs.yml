@@ -1,0 +1,10 @@
+site_name: RFDocs
+site_url: https://tvbox.harper.rocks/docs
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.path
+    - search.suggest
+    - navigation.indexes 
