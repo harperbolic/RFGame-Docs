@@ -6,8 +6,6 @@ Os tópicos abordados são:
 
 - Materiais de Estudo
     - Com ênfase na Godot Engine e programação em GDScript.
-- Arquitetura ECS
-    - Como a equipe é formada por estudantes que não cursaram disciplinas de orientação a objetos. O uso da ECS tem como objetivo trazer mais familiaridade com programação estruturada orientada a dados, sem deixar de ser uma arquitetura moderna padrão da indústria. Essa seção tem como objetivo introduzir a ECS.
 - Diretrizes de Código
     - Padronizações ao escrever certas coisas para melhorar o entendimento do código e a consistência.
 - Git e Colaboração
