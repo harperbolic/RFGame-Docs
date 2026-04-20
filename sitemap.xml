@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://tvbox.harper.rocks/docs/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://tvbox.harper.rocks/docs/Links/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://tvbox.harper.rocks/docs/Manual%20do%20Programador/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://tvbox.harper.rocks/docs/Manual%20do%20Programador/0-godot/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://tvbox.harper.rocks/docs/Manual%20do%20Programador/1-guidelines/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://tvbox.harper.rocks/docs/Manual%20do%20Programador/2-git/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+</urlset>
