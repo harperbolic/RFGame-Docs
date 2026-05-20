@@ -4,7 +4,7 @@
 
 ## Produção e Organização
 
-- [Game Design Document](https://docs.google.com/document/d/1Iemkhd0b874e76jeMpTdd2NiNso-Rt3CSvSP5wMuVSw/edit?usp=sharing)
+- [Game Design Document](https://docs.google.com/document/d/1OrAYMqv93b5AqJuDzD9UkRdOoITQ1kEGDorGByEku0w/edit?usp=sharing)
 
 - [Trello](https://trello.com/w/ifspsaltogamedev)
 
